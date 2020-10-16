@@ -4,9 +4,9 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const SongSchema = Schema({
-    number: String,
+    number: Number,
     name: String,
-    duration: Number,
+    duration: String,
     file: String,
     album: {
         type: Schema.ObjectId,
