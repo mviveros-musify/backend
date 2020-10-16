@@ -2,7 +2,7 @@
     "name": "musify-backend",
     "description": "Musify - Backend. Proyecto de API-REST con NodeJS. Similar a Spotify de Victor Robles (Curso Udemy).",
     "author": "Mauro Daniel Viveros (TRY Ubbe)",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "ISC",
     "main": "index.js",
     "scripts": {

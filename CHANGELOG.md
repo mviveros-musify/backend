@@ -1,3 +1,9 @@
+#### 1.0.1 (2020-10-16)
+
+##### New Features
+
+*  Se traslada a una organizacion el proyecto ([534b5625](https://github.com/mviveros-musify/backend/commit/534b5625ff94b751d36cc768c2f86c73194daec4))
+
 ## 1.0.0 (2020-10-16)
 
 ##### New Features
