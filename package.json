@@ -1,0 +1,25 @@
+{
+    "name": "musify",
+    "description": "Proyecto de API-REST con NodeJS. Similar a Spotify de Victor Robles (Curso Udemy)",
+    "author": "Mauro Daniel Viveros (TRY Ubbe)",
+    "version": "0.0.0",
+    "license": "ISC",
+    "main": "index.js",
+    "scripts": {
+        "version": "git add .",
+        "postversion": "git push origin master && git push origin --tags",
+        "patch": "changelog -p && npm version patch -f",
+        "minor": "changelog -m && npm version minor -f",
+        "major": "changelog -M && npm version major -f",
+        "pull": "git pull origin master && git pull origin --tags"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/maurodviveros/musify.git"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/maurodviveros/musify/issues"
+    },
+    "homepage": "https://github.com/maurodviveros/musify#readme"
+}
