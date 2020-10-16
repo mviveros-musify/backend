@@ -8,7 +8,6 @@ const fs   = require('fs');
 const Artist = require('../models/artist');
 const Album  = require('../models/album');
 const Song   = require('../models/song');
-const album = require('../models/album');
 
 const getAlbum = (req, res)=>{
     const albumId = req.params.id;
