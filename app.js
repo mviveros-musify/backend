@@ -4,6 +4,9 @@ const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
 
+// Cargar Rutas
+var user_routes = require('./routes/user');
+
 // Middlewares
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
@@ -11,8 +14,6 @@ app.use(bodyParser.json());
 // Configurar Cabeceras HTTP
 
 // Rutas Base
-app.get('/pruebas', (req, res)=>{
-    res.status(200).send({ message: "Hello World" });
-});
+app.use('/api', user_routes);
 
 module.exports = app;
