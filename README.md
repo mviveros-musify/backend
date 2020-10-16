@@ -5,7 +5,7 @@
 - NodeJS
 - Git
 - MongoDB
-- Studio3T o Otro administrador de MongoDB (Opcional)
+- Studio3T u otro administrador de MongoDB (Opcional)
 ### Instalar Paquetes NodeJS Globales
 ```node
 npm i -g generate-changelog
