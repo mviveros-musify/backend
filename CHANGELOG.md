@@ -1,3 +1,11 @@
+### 0.1.0 (2020-10-16)
+
+##### New Features
+
+*  Se agregaron rutas y Controlador de Song ([c94cfda6](https://github.com/maurodviveros/musify/commit/c94cfda68ddac99841970c90ebd22e7ef686d1b2))
+*  Rutas y Controlladores de Album y Artist ([07871f13](https://github.com/maurodviveros/musify/commit/07871f13b0db1149a9fbfc420da32dec182a11e2))
+*  Controlador y Rutas de Users ([7e233a1a](https://github.com/maurodviveros/musify/commit/7e233a1a68715380a5dfd7c01dd1aaf616d0516e))
+
 #### 0.0.3 (2020-10-16)
 
 ##### New Features
