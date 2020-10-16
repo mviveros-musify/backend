@@ -11,7 +11,8 @@
         "patch": "changelog -p && npm version patch -f",
         "minor": "changelog -m && npm version minor -f",
         "major": "changelog -M && npm version major -f",
-        "pull": "git pull origin master && git pull origin --tags"
+        "pull": "git pull origin master && git pull origin --tags",
+        "dev": "nodemon index"
     },
     "repository": {
         "type": "git",
