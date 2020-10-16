@@ -113,12 +113,8 @@ const uploadImage = (req, res)=>{
                     res.status(200).send({ image: file_name, user:userUpdate });
                 }
             });
-        }else{
-            res.status(200).send({ message:'Extension del archivo no valida.' });
-        };
-    }else{
-        res.status(200).send({ message: 'No se ha subido ninguna imagen...' })
-    };
+        }else res.status(200).send({ message: 'Extension del archivo no valida.' });
+    }else res.status(200).send({ message: 'No se ha subido ninguna imagen...' });
 };
 
 const getImageFile = (req, res)=>{

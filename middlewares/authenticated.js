@@ -5,7 +5,7 @@ const moment = require('moment');
 const secret = 'clave_secreta_musify';
 
 exports.ensureAuth = (req,res,next)=>{
-    if (!req.headers.authorization) return res.status(403).send({ message: 'La peticion no tiene la cabecera de autenticacion.' });
+    if (!req.headers.authorization) return res.status(403).send({ message: 'La peticion no tiene la cabecera de authorization.' });
 
     const token = req.headers.authorization.replace(/['"]+/g,'');
     let payload = undefined;

@@ -9,7 +9,7 @@ const multipart = require('connect-multiparty');
 const md_upload = multipart({ uploadDir: './uploads/users' });
 
 api.get('/test', md_auth.ensureAuth, UserCtrl.pruebas);
-api.get('/get-image/:imageFile', UserCtrl.getImageFile);
+api.get('/get-image-user/:imageFile', UserCtrl.getImageFile);
 
 api.post('/register', UserCtrl.registerUser);
 api.post('/login', UserCtrl.loginUser);
