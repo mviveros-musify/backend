@@ -10,4 +10,5 @@
 ```node
 npm i -g generate-changelog
 npm i -g nodemon
+npm i -g angular-cli
 ```
