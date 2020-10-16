@@ -1,3 +1,9 @@
+#### 0.1.1 (2020-10-16)
+
+##### Bug Fixes
+
+*  Se movio de ubicacion el server API-REST ([a2896c97](https://github.com/maurodviveros/musify/commit/a2896c97dcceaf8c9aa4bdfe07c561c3c2eb12a2))
+
 ### 0.1.0 (2020-10-16)
 
 ##### New Features
