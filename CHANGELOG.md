@@ -1,3 +1,9 @@
+#### 1.0.2 (2020-10-16)
+
+##### Bug Fixes
+
+*  Se actualiza el README; ([57a5f77e](https://github.com/mviveros-musify/backend/commit/57a5f77e078052880cdf8e5b676cdbd315146dc6))
+
 #### 1.0.1 (2020-10-16)
 
 ##### New Features
