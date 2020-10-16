@@ -1,3 +1,16 @@
+#### 0.0.3 (2020-10-16)
+
+##### New Features
+
+*  Ruta /pruebas, para testear ([e25c308d](https://github.com/maurodviveros/musify/commit/e25c308d453f2aba1c971fc7fa7a6506402fdb90))
+*  Modelos de album, artist, song y user realizados ([2cd13400](https://github.com/maurodviveros/musify/commit/2cd13400def51c62f6a933bb7263c862dc5e2598))
+*  Servidor Express Inicializado ([336e5ee6](https://github.com/maurodviveros/musify/commit/336e5ee626a3fc60630dd70521fca2195821202a))
+*  Mongo Conectado ([9173da5b](https://github.com/maurodviveros/musify/commit/9173da5b94054c7ac56a3e417e9870687f14a969))
+
+##### Bug Fixes
+
+*  Corrección en el README ([7733d76f](https://github.com/maurodviveros/musify/commit/7733d76fef8656df2f821423e89d0e2a2d19f0bc))
+
 #### 0.0.2 (2020-10-16)
 
 ##### Bug Fixes
