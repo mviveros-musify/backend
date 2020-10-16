@@ -16,13 +16,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/maurodviveros/musify.git"
+        "url": "git+https://github.com/mviveros-musify/backend.git"
     },
     "keywords": [],
     "bugs": {
-        "url": "https://github.com/maurodviveros/musify/issues"
+        "url": "git+https://github.com/mviveros-musify/backend/issues"
     },
-    "homepage": "https://github.com/maurodviveros/musify#readme",
+    "homepage": "git+https://github.com/mviveros-musify/backend#readme",
     "dependencies": {
         "bcrypt-nodejs": "0.0.3",
         "body-parser": "^1.19.0",
