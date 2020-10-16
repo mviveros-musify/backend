@@ -1,3 +1,9 @@
+## 1.0.0 (2020-10-16)
+
+##### New Features
+
+*  Parte Backend Version Beta Finalizada ([fe329bf4](https://github.com/maurodviveros/musify/commit/fe329bf4a7a118d93d6f833963d5a667ca115297))
+
 #### 0.1.1 (2020-10-16)
 
 ##### Bug Fixes
